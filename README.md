@@ -1,4 +1,4 @@
-# Level Up: Advanced SQL
+# Level Up: Advanced SQL @ Mihir
 This is the repository for the LinkedIn Learning course Level Up: Advanced SQL. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![Level Up: Advanced SQL][lil-thumbnail-url] 
